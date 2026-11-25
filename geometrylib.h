@@ -13,4 +13,7 @@ typedef struct{
     int y;
 } ponto;
 
+//Funções essenciais 
+
+
 #endif
