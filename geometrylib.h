@@ -5,7 +5,7 @@
 
 
 
-#ifndef GEOMETRYLIB_H
+sifndef GEOMETRYLIB_H
 #define GEOMETRYLIB_H
 
 typedef struct{
@@ -14,6 +14,6 @@ typedef struct{
 } ponto;
 
 //Funções essenciais 
-
+//Funções focadas em distancia
 
 #endif
